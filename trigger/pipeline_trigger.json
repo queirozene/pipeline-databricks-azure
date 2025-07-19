@@ -16,8 +16,8 @@
 			"recurrence": {
 				"frequency": "Hour",
 				"interval": 1,
-				"startTime": "2025-07-19T01:18:00",
-				"timeZone": "E. South America Standard Time"
+				"startTime": "2025-07-19T04:21:00Z",
+				"timeZone": "UTC"
 			}
 		}
 	}
